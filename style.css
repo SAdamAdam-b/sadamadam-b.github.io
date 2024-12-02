@@ -1,0 +1,15 @@
+p{
+    color:green;
+    font-weight: bold;
+    font-weight: 300;
+    font-family: "Rajdhani", sans-serif;
+    font-size:x-large
+}
+body{
+    background-color: aqua;
+}
+img{
+    width: 300px;
+    border: 10px;
+    border-style: dashed;
+}
